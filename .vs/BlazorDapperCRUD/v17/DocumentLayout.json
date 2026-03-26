@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Vasanth\\source\\repos\\BlazorDapperCRUD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4E5DF10-1BF5-40E9-94CD-E80FB5C17085}|BlazorDapperCRUD\\BlazorDapperCRUD.csproj|c:\\users\\vasanth\\source\\repos\\blazordappercrud\\blazordappercrud\\components\\pages\\videoadd.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4E5DF10-1BF5-40E9-94CD-E80FB5C17085}|BlazorDapperCRUD\\BlazorDapperCRUD.csproj|solutionrelative:blazordappercrud\\components\\pages\\videoadd.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4E5DF10-1BF5-40E9-94CD-E80FB5C17085}|BlazorDapperCRUD\\BlazorDapperCRUD.csproj|c:\\users\\vasanth\\source\\repos\\blazordappercrud\\blazordappercrud\\data\\service\\videoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4E5DF10-1BF5-40E9-94CD-E80FB5C17085}|BlazorDapperCRUD\\BlazorDapperCRUD.csproj|solutionrelative:blazordappercrud\\data\\service\\videoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4E5DF10-1BF5-40E9-94CD-E80FB5C17085}|BlazorDapperCRUD\\BlazorDapperCRUD.csproj|c:\\users\\vasanth\\source\\repos\\blazordappercrud\\blazordappercrud\\data\\service\\ivideoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4E5DF10-1BF5-40E9-94CD-E80FB5C17085}|BlazorDapperCRUD\\BlazorDapperCRUD.csproj|solutionrelative:blazordappercrud\\data\\service\\ivideoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4E5DF10-1BF5-40E9-94CD-E80FB5C17085}|BlazorDapperCRUD\\BlazorDapperCRUD.csproj|c:\\users\\vasanth\\source\\repos\\blazordappercrud\\blazordappercrud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B4E5DF10-1BF5-40E9-94CD-E80FB5C17085}|BlazorDapperCRUD\\BlazorDapperCRUD.csproj|solutionrelative:blazordappercrud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4E5DF10-1BF5-40E9-94CD-E80FB5C17085}|BlazorDapperCRUD\\BlazorDapperCRUD.csproj|c:\\users\\vasanth\\source\\repos\\blazordappercrud\\blazordappercrud\\data\\video.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4E5DF10-1BF5-40E9-94CD-E80FB5C17085}|BlazorDapperCRUD\\BlazorDapperCRUD.csproj|solutionrelative:blazordappercrud\\data\\video.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4E5DF10-1BF5-40E9-94CD-E80FB5C17085}|BlazorDapperCRUD\\BlazorDapperCRUD.csproj|c:\\users\\vasanth\\source\\repos\\blazordappercrud\\blazordappercrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4E5DF10-1BF5-40E9-94CD-E80FB5C17085}|BlazorDapperCRUD\\BlazorDapperCRUD.csproj|solutionrelative:blazordappercrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 185,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Vasanth\\source\\repos\\BlazorDapperCRUD\\BlazorDapperCRUD\\appsettings.json",
+              "RelativeDocumentMoniker": "BlazorDapperCRUD\\appsettings.json",
+              "ToolTip": "C:\\Users\\Vasanth\\source\\repos\\BlazorDapperCRUD\\BlazorDapperCRUD\\appsettings.json",
+              "RelativeToolTip": "BlazorDapperCRUD\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-16T05:04:57.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IVideoService.cs",
+              "DocumentMoniker": "C:\\Users\\Vasanth\\source\\repos\\BlazorDapperCRUD\\BlazorDapperCRUD\\Data\\Service\\IVideoService.cs",
+              "RelativeDocumentMoniker": "BlazorDapperCRUD\\Data\\Service\\IVideoService.cs",
+              "ToolTip": "C:\\Users\\Vasanth\\source\\repos\\BlazorDapperCRUD\\BlazorDapperCRUD\\Data\\Service\\IVideoService.cs",
+              "RelativeToolTip": "BlazorDapperCRUD\\Data\\Service\\IVideoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T04:32:56.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VideoAdd.razor",
+              "DocumentMoniker": "C:\\Users\\Vasanth\\source\\repos\\BlazorDapperCRUD\\BlazorDapperCRUD\\Components\\Pages\\VideoAdd.razor",
+              "RelativeDocumentMoniker": "BlazorDapperCRUD\\Components\\Pages\\VideoAdd.razor",
+              "ToolTip": "C:\\Users\\Vasanth\\source\\repos\\BlazorDapperCRUD\\BlazorDapperCRUD\\Components\\Pages\\VideoAdd.razor",
+              "RelativeToolTip": "BlazorDapperCRUD\\Components\\Pages\\VideoAdd.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-16T04:25:33.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VideoService.cs",
+              "DocumentMoniker": "C:\\Users\\Vasanth\\source\\repos\\BlazorDapperCRUD\\BlazorDapperCRUD\\Data\\Service\\VideoService.cs",
+              "RelativeDocumentMoniker": "BlazorDapperCRUD\\Data\\Service\\VideoService.cs",
+              "ToolTip": "C:\\Users\\Vasanth\\source\\repos\\BlazorDapperCRUD\\BlazorDapperCRUD\\Data\\Service\\VideoService.cs",
+              "RelativeToolTip": "BlazorDapperCRUD\\Data\\Service\\VideoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T04:19:33.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Video.cs",
+              "DocumentMoniker": "C:\\Users\\Vasanth\\source\\repos\\BlazorDapperCRUD\\BlazorDapperCRUD\\Data\\Video.cs",
+              "RelativeDocumentMoniker": "BlazorDapperCRUD\\Data\\Video.cs",
+              "ToolTip": "C:\\Users\\Vasanth\\source\\repos\\BlazorDapperCRUD\\BlazorDapperCRUD\\Data\\Video.cs",
+              "RelativeToolTip": "BlazorDapperCRUD\\Data\\Video.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T04:14:05.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Vasanth\\source\\repos\\BlazorDapperCRUD\\BlazorDapperCRUD\\Program.cs",
+              "RelativeDocumentMoniker": "BlazorDapperCRUD\\Program.cs",
+              "ToolTip": "C:\\Users\\Vasanth\\source\\repos\\BlazorDapperCRUD\\BlazorDapperCRUD\\Program.cs",
+              "RelativeToolTip": "BlazorDapperCRUD\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T03:49:12.224Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

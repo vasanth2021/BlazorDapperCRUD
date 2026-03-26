@@ -1,0 +1,64 @@
+﻿@rendermode InteractiveServer
+@using BlazorDapperCRUD.Data
+@using BlazorDapperCRUD.Data.Service
+
+@page "/video-add"
+
+@inject IVideoService videoService
+@inject NavigationManager navigationManager
+
+<h2>Add Video</h2>
+
+<EditForm EditContext="@editContext" OnValidSubmit="@AddVideo" FormName="AddVideoForm" method ="post">
+    <DataAnnotationsValidator />
+    <ValidationSummary />
+
+    <div class="mb-3">
+        <label for="title" class="form-label">Title:</label>
+        <InputText id="title" class="form-control" @bind-Value="video.Title" />
+    </div>
+
+    <div class="mb-3">
+        <label for="datePublished" class="form-label">Date Published:</label>
+        <InputDate id="datePublished" class="form-control" @bind-Value="video.DatePublished" />
+    </div>
+
+    <div class="form-check mb-3">
+        <InputCheckbox id="isActive" class="form-check-input" @bind-Value="video.IsActive" />
+        <label for="isActive" class="form-check-label">Is Active</label>
+    </div>
+
+    <div>
+        <button type="submit" class="btn btn-primary">Add Video</button>
+        <button type="button" class="btn btn-secondary" @onclick="Cancel">Cancel</button>
+    </div>
+</EditForm>
+
+@code {
+    [SupplyParameterFromForm]
+    public Video video { get; set; } = new();
+
+    EditContext? editContext;
+
+    protected override void OnInitialized()
+    {
+        // Use a single EditContext for the lifetime of the form so binding isn't broken by re-renders.
+        editContext = new EditContext(video);
+    }
+
+    protected async Task AddVideo()
+    {
+        video.CreatedDate = DateTime.Now;
+        video.LastUpdatedDate = DateTime.Now;
+
+        // At this point video will contain the bound values from the form
+        await videoService.AddVideo(video);
+        navigationManager.NavigateTo("/");
+        StateHasChanged();
+    }
+
+    void Cancel()
+    {
+        navigationManager.NavigateTo("/");
+    }
+}
